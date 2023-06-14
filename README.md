@@ -28,22 +28,25 @@ The number of iterations for Monte Carlo simulation is 2500.
 - Gross Lifetime Value is £234.0
 - Customer Lifetime Value is £280.36
 - Average Customer Lifetime Value from Monte Carlo is approximately £219.12 with 75% probability.
-- Histogram shows that CLV ranges from £71 to £359 with insignificant variation in frequency (around 145 to 180), except for the group of customer that generate the highest CLV (£359 to £383) that has the lowest frequency of around 49.
+- Histogram shows that CLV ranges from £71 to £359 with insignificant variation in frequency (around 145 to 180), except for the group of customers that generates the highest CLV (£359 to £383) that has the lowest frequency of around 49.
 
 **Key takeaways:**
-* Cost of acquiring customer vs. Annual customer cost:
+* Cost of acquiring customers vs. Annual customer cost:
+
 The cost of acquiring new customers (£145) is larger than the annual customer costs (£110).
 
 However, it's important to note that this cost represents the annual customer costs rather than the cost of retaining a single customer over a four-year period.
 
 Therefore, a direct cost comparison between customer acquisition and customer retention cannot be made based on the provided information alone. It would require additional data on the cost of retaining existing customers over a four-year period.
 
-* Average CLV vs. Cost of acquiring new customer:
+* Average CLV vs. Cost of acquiring new customers:
+
 According to the Monte Carlo simulation results, the average customer lifetime value over a four-year period is estimated to be £218.14.
 
 Comparing this value with the cost of acquiring new customers, which is £145, indicates that the estimated customer lifetime value is higher than the cost of acquisition. 
 
 This suggests that **focusing on customer retention may be more beneficial** in terms of generating **long-term value** compared to acquiring new customers.
+
 
 **Recommendations:**
 
