@@ -31,6 +31,13 @@ The number of iterations for Monte Carlo simulation is 2500.
 - Histogram shows that CLV ranges from £71 to £359 with insignificant variation in frequency (around 145 to 180), except for the group of customers that generates the highest CLV (£359 to £383) that has the lowest frequency of around 49.
 
 **Key takeaways:**
+
+* Gross Lifetime Value vs. Cost of acquiring:
+
+The gross lifetime value (£234.0) exceeds the cost of acquiring new customers (£145). This suggests that, on average, the revenue generated from retaining existing customers is higher than the expenses associated with acquiring new customers.
+
+From a financial perspective, this comparison indicates that focusing on customer retention may be more beneficial than solely focusing on customer acquisition. By nurturing and retaining existing customers, the store can maximize their lifetime value and profitability.
+
 * Cost of acquiring customers vs. Annual customer cost:
 
 The cost of acquiring new customers (£145) is larger than the annual customer costs (£110).
